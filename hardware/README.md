@@ -1,6 +1,6 @@
 # Hardware Overview 🛠️
 
-This folder contains the hardware files for the **[Project Name]**. Here you'll find all the necessary designs and documents related to the hardware components of the project.
+This folder contains the hardware files for the **ESP32Pico V3 DevKit**. Here you'll find all the necessary designs and documents related to the hardware components of the project.
 
 ## Contents 📁
 - **PCB Designs**: Schematics and layout files created using KiCad.
@@ -8,9 +8,10 @@ This folder contains the hardware files for the **[Project Name]**. Here you'll 
 - **Bill of Materials (BOM)**: A list of all components used in the project.
 
 ## Files Description 📄
-- **[filename.kicad_pcb]**: The main PCB layout file.
-- **[filename.kicad_sch]**: The schematic diagram for the circuit.
-- **[BOM.csv]**: Bill of materials listing all components.
+- **[ESP32-PICO-V3-DevKit.kicad_pcb]**: The main PCB layout file.
+- **[ESP32-PICO-V3-DevKit.kicad_sch]**: The schematic diagram for the circuit.
+- **[ESP32-PICO-V3-DevKit-BOM.csv]**: Bill of materials listing all components.
+PDF files for the schematic and gerber layers are also included.
 
 ## Getting Started ⚙️
 1. Open the PCB design in KiCad to view or modify the layout.

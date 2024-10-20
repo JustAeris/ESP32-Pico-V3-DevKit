@@ -1,4 +1,4 @@
-# Project Name 🚀
+# ESP32 Pico V3 DevKit 🚀
 
 ## Overview 📖
 This project features a custom PCB designed for the ESP32 Pico V3, including numerous features and allowing for easy developement. 

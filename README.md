@@ -11,8 +11,8 @@ This project features a custom PCB designed for the ESP32 Pico V3, including num
 ## Components 🔧
 Here’s a list of the major components used:
 - 🔌 **ESP32 Pico V3**
-- 🔋 **ANT3216LL00R2400A Chip antenna**
-- ⚡ **CP2102N USB to UART IC**
+- 🔋 **ANT3216LL00R2400A** Chip antenna
+- ⚡ **CP2102N** USB to UART IC
 
 ## Hardware 🛠️
 The hardware includes:
@@ -50,4 +50,4 @@ This project is licensed under the GPL-3.0 license - see the LICENSE file for de
 Feel free to submit issues or pull requests if you find bugs or have suggestions for improvements.
 
 ## Contact 📧
-For any inquiries, you can reach out to Aeris at [aeris.github@gmail.com](mailto:aeris.github@gmail.com).
+For any inquiries, you can reach out to me at [aeris.github@gmail.com](mailto:aeris.github@gmail.com).

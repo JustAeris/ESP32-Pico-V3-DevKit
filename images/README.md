@@ -1,6 +1,6 @@
 # Images Overview 🖼️
 
-This folder contains images related to the **[Project Name]**. Here you'll find:
+This folder contains images related to the **ESP32 Pico V3 DevKit**. Here you'll find:
 
 - **Board Pictures** 📸: Photos of the assembled hardware.
 - **3D Renders** 🏗️: Visualizations of the hardware design.
